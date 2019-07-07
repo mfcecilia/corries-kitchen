@@ -38,6 +38,10 @@ header hr {
     font-style: oblique;
 }
 
+.partition {
+    max-width: 30%;
+}
+
 .map {
     display: flex;
     align-items: center;
