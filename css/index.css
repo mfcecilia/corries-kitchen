@@ -61,7 +61,16 @@ header hr {
     color: black;
 }
 
+.social p {
+    font-style: oblique;
+}
+
 footer p {
     text-align: center;
+    color: grey;
+}
+
+footer a {
+    text-decoration: none;
     color: grey;
 }
