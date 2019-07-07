@@ -1,0 +1,43 @@
+header {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+header img {
+    max-width: 70%;
+}
+
+header h1 {
+    width: 100%;
+    text-align: center;
+}
+
+header p {
+    width: 100%;
+    text-align: center;
+}
+
+header hr {
+    width: 30%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container img {
+    max-width: 30%;
+}
+
+.container p {
+    max-width: 50%;
+    font-size: 1.3em;
+    font-style: oblique;
+}
+
+footer p {
+    text-align: center;
+    color: grey;
+}
