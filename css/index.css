@@ -22,6 +22,27 @@ header hr {
     width: 30%;
 }
 
+.pages {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pages a {
+    text-decoration: none;
+    color: black;
+}
+
+.pages div {
+    border: solid .05em grey;
+    padding: 1em;
+    font-family: 'Quicksand', sans-serif;
+    cursor: pointer;
+}
+
+.pages div:hover {
+    border: solid .05em pink;
+}
+
 .container {
     display: flex;
     align-items: center;
