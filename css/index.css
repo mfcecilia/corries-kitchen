@@ -33,10 +33,11 @@ header hr {
 }
 
 .pages div {
-    border: solid .05em grey;
+    border: solid .05em white;
     padding: 1em;
     font-family: 'Quicksand', sans-serif;
     cursor: pointer;
+    text-align: center;
 }
 
 .pages div:hover {
