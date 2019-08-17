@@ -44,6 +44,18 @@ header hr {
     border: solid .05em pink;
 }
 
+.freedoms {
+    text-align: center;
+}
+
+.freedoms p {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.freedoms ul {
+    font-style: oblique;
+}
+
 .container {
     display: flex;
     align-items: center;
